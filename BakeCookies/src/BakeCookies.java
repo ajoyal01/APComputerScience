@@ -2,6 +2,7 @@
 public class BakeCookies {
 
 	public static void main(String[] args) {
+		// algorithm
 		System.out.println("Mix the dry ingredients.");
         System.out.println("Cream the butter and sugar.");
         System.out.println("Beat in the eggs.");
